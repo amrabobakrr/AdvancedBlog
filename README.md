@@ -1,10 +1,10 @@
-# 📖 My Advanced Blog
+#  My Advanced Blog
 
 This is a simple front-end blog layout built with HTML and CSS. It includes a header, multiple blog posts, sidebars, a contact form, and a scroll-to-top button powered by inline JavaScript.
 
-# 📁 Project Structure
+#  Project Structure
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 Just follow these steps:
 
@@ -21,13 +21,13 @@ Just follow these steps:
 
 ---
 
-## 📱 Responsive Design
+##  Responsive Design
 
 This blog layout adjusts nicely on smaller screens thanks to CSS media queries.  
 You can test it by shrinking your browser window or opening it on your phone.
 
 
-## 🧠 Notes
+##  Notes
 
 - All styles are handled in one CSS file — no frameworks used.
 - JavaScript functionality is placed inline at the bottom of `index.html`, so no external JS file is required.

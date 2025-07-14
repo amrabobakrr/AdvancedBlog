@@ -1,6 +1,6 @@
 #  My Advanced Blog
 
-This is a simple front-end blog layout built with HTML and CSS. It includes a header, multiple blog posts, sidebars, a contact form, and a scroll-to-top button powered by inline JavaScript.
+This is a simple front-end blog layout built with HTML and CSS. 
 
 #  Project Structure
 
